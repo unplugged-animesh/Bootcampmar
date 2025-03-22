@@ -1,0 +1,16 @@
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: rgb(131, 163, 121);
+}
+
+h1{
+	text-align: center;
+	color: beige;
+}
+
+.my-box{
+	max-width: 400px;
+	margin:auto;
+	background-color: darksalmon;
+	padding: 50px;
+}
